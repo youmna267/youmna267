@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi, I'm Youmna Shoukat 
+A former pre-medical student who discovered a passion for technology and transformed curiosity into a journey of continuous learning.
 
+Currently pursuing a degree in Information Technology, with a growing interest in software development, cloud computing, DevOps, and cloud-native technologies. I enjoy building projects, exploring new tools, and creating solutions that solve real-world problems.
+
+🚀 Learning. Building. Growing.
 <!--
 **youmna267/youmna267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
